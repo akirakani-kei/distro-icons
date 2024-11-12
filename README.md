@@ -1,6 +1,6 @@
 ## A database of icons for various Linux distributions.
 
-**40+ icons**
+**currently contains 45 icons**
 <br>
 most icons pulled from *[librehunt.org](https://librehunt.org/)*
 <br>
