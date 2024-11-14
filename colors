@@ -112,7 +112,8 @@ nixos = 6252905
 parabola = 2058499
 #1f71c3
 
-redstar = 16711680
+red = 16711680
+#redstar os lmfao
 #ff0000
 
 arco = 8415488
