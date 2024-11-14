@@ -10,8 +10,8 @@ arch = 1545169
 kubuntu = 5321158
 #517fac
 
-xubuntu = 7486432
-#726cbd
+xubuntu = 16557
+#0040ad
 
 endless = 14687473
 #df6311
@@ -88,8 +88,8 @@ feren = 4885993
 gentoo = 12587246
 #c7a9cc
 
-elementary = 3675597
-#380d75
+elementary = 16777215
+#ffffff
 
 zorin = 2468916
 #25a1f1
@@ -97,8 +97,8 @@ zorin = 2468916
 frugalware = 6690906
 #664eb2
 
-pureos = 6097912
-#5ca948
+pureos = 16777215
+#ffffff
 
 slackware = 1900825
 #1d2069
